@@ -67,3 +67,9 @@ Example:
 User: Open Chrome, open youtube, go to the video of veritasium on topic MATH DUEL, and copy the link, send it to "MUMMA" on whatsapp
 ASTRA: Opening Chrome, opening youtube, navigating to MATH DUEL by veritasium, Shar options, copied link, opening whatsapp, verifying the identity, navigating to chat of MUMMA, pasted the link, SENT!
 
+```
+# AstraAI v0.1
+This is the first model with no voice sensitivity, it works as an agent when given commands by typing in it. 
+
+
+
